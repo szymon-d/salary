@@ -1,4 +1,4 @@
 numpy==1.18.5
 pandas==0.25.3
-scikit-learn>=0.22.1,<0.23.0
+scikit-learn>=0.24.1
 pathlib==1.0.1
